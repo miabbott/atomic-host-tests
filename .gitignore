@@ -5,3 +5,4 @@ inventory*
 *.pyc
 *.pyo
 .*.swp
+*.log
