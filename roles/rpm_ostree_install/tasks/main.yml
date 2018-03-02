@@ -2,7 +2,7 @@
 # vim: set ft=ansible:
 # role: rpm_ostree_install
 #
-# This role installs packages using rpm-ostree uninstall
+# This role installs packages using rpm-ostree install
 #
 # Parameters:
 #  roi_packages - string of one or more packages separated by a space
