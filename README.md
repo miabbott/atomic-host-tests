@@ -1,3 +1,6 @@
+Interested in more information about this project?  You can click through the results
+to [more information](#moreinfo).
+
 # Sanity Test Results
 
 The table below shows the latest results of running the `improved-sanity-test` against
@@ -79,7 +82,7 @@ You can click on the pass/fail badge to get taken to the log of the results.
 | system-containers | [![system-containers log](https://s3.amazonaws.com/aos-ci/atomic-host-tests/system-containers/fedora-rawhide/latest/status.png)](https://s3.amazonaws.com/aos-ci/atomic-host-tests/system-containers/fedora-rawhide/latest/system-containers.log) |||
 
 ---
-
+<a name="moreinfo" />
 # Atomic Host Tests
 This repo contains a number of Ansible playbooks that can be used to run
 tests against an Atomic Host.
