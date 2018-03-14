@@ -13,7 +13,7 @@ provide any way for provisioning test resources/infrastructure.
 Interested in more information about this project?  You can click through the results
 to [more information](#moreinfo).
 
-# Sanity Test Results
+## Sanity Test Results
 
 The table below shows the latest results of running the `improved-sanity-test` against
 each of the referenced streams.  You can see the version that was tested and a link to
@@ -31,7 +31,7 @@ Fedora 27 Atomic Testing | ![fedora 27 atomic testing status](https://s3.amazona
 Fedora 27 Atomic Updates | ![fedora 27 atomic updates status](https://s3.amazonaws.com/aos-ci/atomic-host-tests/improved-sanity-test/fedora-27-atomic-updates/latest/status.png) | [log](https://s3.amazonaws.com/aos-ci/atomic-host-tests/improved-sanity-test/fedora-27-atomic-updates/latest/improved-sanity-test.log)
 Fedora Rawhide Atomic Host | ![fedora rawhide atomic status](https://s3.amazonaws.com/aos-ci/atomic-host-tests/improved-sanity-test/fedora-rawhide/latest/status.png) | [log](https://s3.amazonaws.com/aos-ci/atomic-host-tests/improved-sanity-test/fedora-rawhide/latest/improved-sanity-test.log)
 
-# Next Tier Results
+## Next Tier Results
 After a successful sanity test result, we run a select set of 'next' tier tests against
 the version that passed.  These results are tracked in the tables below.
 
