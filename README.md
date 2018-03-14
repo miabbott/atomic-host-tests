@@ -1,3 +1,15 @@
+# Atomic Host Tests
+This repo contains a number of Ansible playbooks that can be used to run
+tests against an Atomic Host.
+
+The intent is to have a collection of tests that can be used to test the
+CentOS, Fedora, and RHEL versions of Atomic Host.
+
+Currently, these tests fall into the category of single host, integration tests.
+
+**NOTE**:  This repo only provides playbooks/tests and does not currently
+provide any way for provisioning test resources/infrastructure.
+
 Interested in more information about this project?  You can click through the results
 to [more information](#moreinfo).
 
@@ -83,18 +95,6 @@ You can click on the pass/fail badge to get taken to the log of the results.
 
 ---
 <a name="moreinfo"></a>
-# Atomic Host Tests
-This repo contains a number of Ansible playbooks that can be used to run
-tests against an Atomic Host.
-
-The intent is to have a collection of tests that can be used to test the
-CentOS, Fedora, and RHEL versions of Atomic Host.
-
-Currently, these tests fall into the category of single host, integration tests.
-
-**NOTE**:  This repo only provides playbooks/tests and does not currently
-provide any way for provisioning test resources/infrastructure.
-
 ### Supported Test Suites
 The following test suites are available and supported.  Any other playbooks
 found in the repo are currently unmaintained and may not work correctly.
